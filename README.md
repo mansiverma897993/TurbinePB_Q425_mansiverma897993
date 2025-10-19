@@ -20,6 +20,6 @@ Practiced all Rust basics and advanced topics using [Rustlings](https://github.c
 ---
 
 ### Connect With Me
-**GitHub:**  https://github.com/mansiverma897993
-**LinkedIn:**  https://www.linkedin.com/in/mansi-verma-4794a4328/
+**GitHub:**  https://github.com/mansiverma897993 <br>
+**LinkedIn:**  https://www.linkedin.com/in/mansi-verma-4794a4328/ <br>
 **Twitter:**  https://x.com/MansiVe61115132
