@@ -1,4 +1,4 @@
-# Turbin3 Prebuilder Q4 Cohort 🚀
+# Turbine3 Prebuilder Q4 Cohort 🚀
 
 This repository contains all my progress and projects during the Turbin3 Prebuilder Q4 Cohort.
 
@@ -6,7 +6,7 @@ This repository contains all my progress and projects during the Turbin3 Prebuil
 -  Guessing Game
 -  Rectangles
 -  Minigrep
--  Other projects...
+-  Other main 3 projects of rust book
 
 ## 🦀 Rustlings
 Practiced all Rust basics and advanced topics using [Rustlings](https://github.com/rust-lang/rustlings).
