@@ -1,0 +1,3 @@
+[submodule "token-mint"]
+	path = token-mint
+	url = https://github.com/mansiverma897993/token-mint-MVcoin.git
